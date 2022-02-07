@@ -1,6 +1,7 @@
 .inputGrey {
   min-width: 100%;
   padding: 2px 3px;
+  margin-bottom: 8px;
   background-color: transparent;
   border: 2px solid grey;
   border-radius: 5px;
